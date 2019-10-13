@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker_01_2" size="6.000000 7.976879" />
+    <ImageTarget name="marker_01_1" size="6.000000 7.943363" />
+    <ImageTarget name="periodicity_01" size="6.000000 8.265421" />
+    <ImageTarget name="PeriodicTable" size="6.000000 8.342465" />
+    <ImageTarget name="0001" size="6.000000 8.489516" />
+    <ImageTarget name="circular" size="6.000000 8.616463" />
+    <ImageTarget name="lawofinertia_2" size="6.000000 9.204545" />
+    <ImageTarget name="lawofinertia_1" size="7.000000 9.785834" />
+  </Tracking>
+</QCARConfig>
